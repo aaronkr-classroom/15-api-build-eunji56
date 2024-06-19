@@ -1,3 +1,4 @@
+
 /**
  * Dev.to에서: https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
  *
